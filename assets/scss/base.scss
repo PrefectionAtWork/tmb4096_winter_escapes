@@ -1,0 +1,34 @@
+
+// IMPORTS
+@import "vars"; // import _global_variables.scss
+@import "mixins"; // import _mixins.scss
+
+/**  Baseline Styles **/
+
+#main {
+	overflow: visible;
+	
+	#wrapper {
+	
+		li {
+			padding: 0;
+		}
+		
+	}
+	
+	#wrapper { 
+		p, 
+		a, 
+		ul,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			padding: 0;
+			margin: 0;
+		}
+	}
+}
+

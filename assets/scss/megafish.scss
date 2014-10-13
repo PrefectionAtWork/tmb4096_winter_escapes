@@ -1,0 +1,131 @@
+// IMPORTS
+@import "vars"; // import _global_variables.scss
+@import "mixins"; // import _mixins.scss
+
+/*** ESSENTIAL STYLES ***/
+.sf-menu {
+	position: relative;
+	float: left;
+	margin: 0;
+	margin-bottom: 1em;
+	padding: 0;
+	width: 100%;
+	list-style: none;
+
+	.sf-mega {
+		position: absolute;
+		display: none;
+		top: 100%;
+		left: 0;
+		z-index: 99;
+		
+		width: 96%; /* allow long menu items to determine submenu width */
+		margin: 0 2%;
+		padding: 0;
+		@include box-shadow(2px 3px 6px rgba(0,0,0,.2));
+		
+		@include box-sizing('border-box');
+		font-size: $fontSize * 1.1;
+		background-color: $secondaryOffWhite;
+		
+		> li {
+			float: left;
+		}
+		
+		.sf-mega-section {
+			float: left;
+			width: 8em; /* optional */
+			padding: 0 1em 1em 0;
+			margin-right: 1em;
+			border-right: 1px solid #b4c8f5;
+		}
+	}
+	
+	li {
+		&:hover,
+		.sfHover {
+			> .sf-mega {
+				display: block;
+				background: $secondaryOffWhite;
+
+				/* only transition out, not in */
+				-webkit-transition: none;
+				transition: none;
+			}
+		}
+	
+		
+			
+	}
+
+	> li {
+		background: white;
+		@include transition( background .8s );
+		cursor: default;
+		color: $primary;
+		
+		> a {
+			display: block;
+			position: relative;
+
+			border-left: 1px solid #fff;
+			border-top: 1px solid #dFeEFF; /* fallback colour must use full shorthand */
+			border-top: 1px solid rgba(255,255,255,.5);
+			padding: .75em 1em;
+			text-decoration: none;
+			zoom: 1; /* IE7 */
+			color: $primaryDark2;
+		}
+		
+		
+	}
+
+
+}
+
+/*** arrows (for all except IE7) **/
+.sf-arrows {
+	.sf-with-ul {
+		padding-right: 2.5em;
+		*padding-right: 1em; /* no CSS arrows for IE7 (lack pseudo-elements) */
+
+		&:after {
+			content: '';
+			position: absolute;
+			top: 50%;
+			right: 1em;
+			margin-top: -3px;
+			height: 0;
+			width: 0;
+			/* order of following 3 rules important for fallbacks to work */
+			border: 5px solid transparent;
+			border-top-color: #dFeEFF; /* edit this to suit design (no rgba in IE8) */
+			border-top-color: rgba(255,255,255,.5);
+		}
+	}
+	
+	> li {
+		> .sf-with-ul {
+			&:focus {
+				&:after {
+					border-top-color: white;
+				}
+			}
+		}
+		
+		&:hover {
+			> .sf-with-ul {
+				&:after {
+					border-top-color: white;
+				}
+			}
+		}
+		> .sfHover {
+			> .sf-with-ul {
+				&:after {
+					border-top-color: white; /* IE8 fallback colour */
+				}
+			}
+		}
+	}
+}

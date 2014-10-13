@@ -1,0 +1,63 @@
+// GLOBAL VARIABLES - include your variables here or alter the predefined vars
+// See skeleton file for copyright info
+
+// MY VARIABLES
+
+//Analogic Color Scheme
+$primary: #E30B7A;				// Primary color	//cc0066
+$primaryLight1: #D62981;		// Primary color - Lighter
+$primaryLight2: #DD5198;		// Primary color - Lightest
+$primaryOffWhite: #FDE4F1;		// Primary color - Off White
+$primaryDark1: #A20052;			// Primary color - Darker
+$primaryDark2: #7F0041;			// Primary color - Darkest
+$primaryOffBlack: #27121C;		// Primary color - Off Black
+
+$secondary: #0099cc;			// secondary color
+$secondaryLight1: #03C0FF;		// secondary color - Lighter
+$secondaryLight2: #14C2FC;		// secondary color - Lightest
+$secondaryOffWhite: #E3F5FB;	// secondary color - Off White
+$secondaryDark1: #006F94;		// secondary color - Darker
+$secondaryDark2: #006F94;		// secondary color - Darkest
+$secondaryOffBlack: #0E1A1D;	// secondary color - Off Black
+
+
+$rounding: 10px;				// Global Border Radius Rounding
+
+// background vars
+$backgroundColor: #fff; 										// default background information
+
+// font vars
+$fontSize: 1em; 												// default font size. 
+$lineHeight: 1em;	 											// default line height.
+$fontFamily: Helvetica, Arial, sans-serif;						// default fonts
+$fancyFont: cursive;											// default fancy font 
+$fancyFontBold: cursive;										// default fancy font 
+$fontColor: #333; 												// default font color
+$fontColorLight: #666; 											// light font color
+
+// form vars
+$formFont: $fontFamily; 										// default font font
+
+// link vars
+$linkColor: $primaryDark2;										// default link INERT color
+$linkHoverColor: #000;											// default link HOVER color
+$linkDecoration: underline;										// default link decoration
+
+// heading vars
+$headingFamily: $fontFamily;									// default heading font
+$headingColor: $primaryDark2;									// default heading color
+
+// grid variables
+$baseWidth: 		960px; 										// change this to alter the overall width of the grid
+$baseWidthMQ:		960px; 										// base width for media query calculations in layout file
+$baseColWidth: 		40px;										// change this the alter the grid calculation, see _mixins file for more details
+$baseGutterWidth:	20px;										// calculation has changed, this is mainly here for consistency with 960.gs
+$isFluid: 			false;										// want a fluid grid by default?
+
+// ------ CHANGE MAY CAUSE UNDESIRED RESULTS
+$baseColCount: 		16;											// number of cols to generate
+
+// media query dimensions
+$tabletWidth: 			768px;
+$mobilePortraitWidth: 	300px;
+$mobileLandscapeWidth: 	420px;
