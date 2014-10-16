@@ -17,8 +17,14 @@ class Microsite extends Controller {
 	
 	function index( )
 	{
+	
+		/*xdebug settings
+		ini_set('xdebug.var_display_max_depth', 5);
+		ini_set('xdebug.var_display_max_children', 256);
+		ini_set('xdebug.var_display_max_data', 32768);
+		*/
 
-		$this->load->helper(array('file', 'xml', 'replacer', 'cmp', 'create_ul', 'create_ul_custom', 'url_tag', 'create_para', 'delimiter_splice', 'date_check'));
+		$this->load->helper(array('file', 'xml', 'replacer', 'cmp', 'create_ul', 'create_ul_custom', 'url_tag', 'create_para', 'delimiter_splice', 'date_check', 'array'));
 		
 		// Use serialized array constant.  
 		// See './system/application/config/constants.php' for all meta info.
@@ -56,30 +62,31 @@ class Microsite extends Controller {
 		
 		//Sort element names alphabetically by hotelname
 		foreach ($elements as $key => $val) {
-
+			
 			ksort($val);
 			foreach ( $val as $key2 => $val2 ) {
 				uasort($val2, 'cmp');
 				$elementsSorted[$key][$key2] = $val2;
 				
+				/*
 				foreach ($val2 as $key3 => $val3 ) {
-					//var_dump($val3['departuredates']);
-					//var_dump( date_check( $val3['departuredates'], 0, 30 ) );
-					// if multiple dates, determine earliest occurring.  Helper function here.
-					// append to correct filter data set.
+					if ( !empty($val3['islinelisting']) ) {
+						$lineListings[$key][$key2][] = $val3;
+						unset ($elementsSorted[$key][$key2][$key3]);
+					}
 				}
-				
+				*/
 			}
 		}
 		ksort($elementsSorted);
 		
 		// Set view data
 		$data['elements'] = $elementsSorted;
+		//$data['line_listings'] = $lineListings;
 						
 		// Merge meta data into data array.
 		$data = array_merge($data, $meta);
 		
-		// 
 		$data['assets_prefix'] = '';
 	
 		if ( isset($_SERVER['SERVER_NAME']) ) {

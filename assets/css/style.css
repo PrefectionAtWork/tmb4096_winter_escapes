@@ -203,7 +203,7 @@ html[xmlns] .clearfix {
   #wrapper h3 {
     margin: 5px 0;
     padding: 0;
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-family: Helvetica, Arial, sans-serif;
     line-height: 1em;
     font-weight: 600;
@@ -407,7 +407,7 @@ html[xmlns] .clearfix {
           display: block;
           position: relative;
           height: 100%;
-          width: 7;
+          width: 100%;
           margin: 0;
           padding: 0.5em;
           text-align: left;
@@ -446,7 +446,8 @@ html[xmlns] .clearfix {
             box-shadow: 0 2px 3px -2px #999999; }
           #wrapper #regions #regions-container .region-content .offer .offer-top {
             width: 100%;
-            display: inline-block; }
+            display: inline-block;
+            min-height: 4em; }
             #wrapper #regions #regions-container .region-content .offer .offer-top .title-info {
               float: left;
               display: inline-block;
@@ -498,6 +499,8 @@ html[xmlns] .clearfix {
               float: left;
               width: 45%;
               text-align: center; }
+              #wrapper #regions #regions-container .region-content .offer .offer-bottom .image.push-image-up {
+                margin-top: -4em; }
               #wrapper #regions #regions-container .region-content .offer .offer-bottom .image .image-container {
                 display: inherit;
                 text-align: center;
@@ -588,6 +591,35 @@ html[xmlns] .clearfix {
         color: #666666; }
       #wrapper #regions .collapsible ul.list-data li {
         line-height: 1em; }
+  #wrapper .line-listings {
+    -webkit-box-shadow: 0 2px 3px -2px #cccccc;
+    -moz-box-shadow: 0 2px 3px -2px #cccccc;
+    box-shadow: 0 2px 3px -2px #cccccc;
+    max-width: 80%;
+    margin: 0 auto;
+    display: none; }
+    #wrapper .line-listings .listing {
+      padding: 0.5em;
+      text-align: center; }
+      #wrapper .line-listings .listing .hotel-name {
+        margin: 5px 0;
+        padding: 0;
+        font-size: 1.2em;
+        font-family: Helvetica, Arial, sans-serif;
+        line-height: 1em;
+        font-weight: 100;
+        text-align: left;
+        color: #333333; }
+      #wrapper .line-listings .listing .location {
+        margin: 5px 0;
+        margin-left: 1em;
+        padding: 0;
+        font-size: 1em;
+        font-family: Helvetica, Arial, sans-serif;
+        line-height: 1em;
+        font-weight: 100;
+        text-align: center;
+        color: #333333; }
   #wrapper #terms {
     display: inline-block;
     *display: block;

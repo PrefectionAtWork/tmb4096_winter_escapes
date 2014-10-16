@@ -2,6 +2,7 @@
 
 		//Content Tabs functionality
 		$(".region-content").hide();
+		$(".line-listings").hide();
 		$("#index-copy .collapse").hide();	//Copy hide/collapse
 
 		$("#nav ul li .sf-mega ul li").click(function() {
@@ -9,9 +10,11 @@
 			//patched for superfish menus
 			$("#nav ul li .sf-mega ul li").removeClass("active");
 			$(".region-content").hide();
+			$(".line-listings").hide();
 			var activeTab = $(this).attr("rel"); 
 			console.log(activeTab);
 			$("#"+activeTab).fadeIn();
+			$("#"+activeTab+"-line-listings").fadeIn();
 			$("#index-copy .collapse").slideDown(200, function() {
 				$("#index-copy .uncollapse").slideUp(800);
 			});
@@ -64,7 +67,7 @@
 		// scroll body to 0px on click
 		$('#back-top a').click(function () {
 			$('body,html').animate({
-				scrollTop: 450
+				scrollTop: 140
 			}, 800);
 			return false;
 		});

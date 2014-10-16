@@ -1,4 +1,5 @@
-<?php include 'elements/header.php'; ?>
+<?php include 'elements/header.php'; ?>	
+<?php //var_dump($elements); ?>
 
 	<div id="header">
 		<img src="<?php echo base_url(), 'assets/'.$assets_prefix.'img/tmb4096_winter_escapes_timast.jpg'; ?>" alt="<?php echo $headline . ' - ' . $subheadline; ?>">
@@ -15,10 +16,11 @@
 				  <ul>
 					<?php
 						foreach ( $val as $key2 => $val2 ) {
-							//if ( $val[0]['region'] == 'Caribbean' ) { ?>
+							if ( empty($val2['islinelisting']) ) {
+					?>
 								<li rel="region<?php echo $i; ?>"><?php echo replacer(ucwords($key2)); ?></li>
 					<?php		$i++; 
-							//}
+							}
 						} 
 					?>
 				  </ul>
@@ -60,6 +62,7 @@
 					
 					<?php
 					foreach ( $val2 as $key3 => $val3 ) {
+						if ( empty($val3['islinelisting']) ) {
 					?>
 					
 						<div class="offer">
@@ -68,28 +71,30 @@
 									$imgName = preg_replace('/([a-zA-Z]{3})([a-zA-Z]{3})/', '$1_$2', $val3['code']);
 								?>
 								<div class="offer-top">
-									<span class="title-info">
-										<?php 
-											if ( !empty($val3['airline']) ) {
-												$aOrAn = strtolower($val3['airline'][0]);  
-												$aOrAn = ( strpos('aeiou', $aOrAn) !== FALSE ) ? 'an ' : 'a ';
-											} else {
-												$aOrAn = 'a ';
-											}
-										?>
-										<p>
-											<?php echo $val3['numberofnights']; ?> 
-											<span id="<?php echo 'region'.$i.'-'.$departure_code.'-'.$val3['code'].'-tooltip'; ?>" class="tooltip-action">
-												<?php echo replacer($val3['packageinclusionslabel']); ?>
-											</span> Nights on <?php echo $aOrAn . $val3['airline']; ?> Dedicated Vacation Flight
-										</p>
-										<div class="starting-at">
-											STARTING AT 
-											<span class="price">
-												$<?php echo delimiter_splice(',',3, $val3['price']); ?>
-											</span>
-										</div>
-									</span>
+									<?php if ( empty($val3['landonly']) ) { ?>
+										<span class="title-info">
+											<?php 
+												if ( !empty($val3['airline']) ) {
+													$aOrAn = strtolower($val3['airline'][0]);  
+													$aOrAn = ( strpos('aeiou', $aOrAn) !== FALSE ) ? 'an ' : 'a ';
+												} else {
+													$aOrAn = 'a ';
+												}
+											?>
+											<p>
+												<?php echo $val3['numberofnights']; ?> 
+												<span id="<?php echo 'region'.$i.'-'.$departure_code.'-'.$val3['code'].'-tooltip'; ?>" class="tooltip-action">
+													<?php echo replacer($val3['packageinclusionslabel']); ?>
+												</span> Nights from <?php echo ucfirst($val3['from'])." (".strtoupper($val3['departurecode']).")"; ?> on <?php echo $aOrAn . $val3['airline']; ?> Dedicated Vacation Flight
+											</p>
+											<div class="starting-at">
+												STARTING AT 
+												<span class="price">
+													$<?php echo delimiter_splice(',',3, $val3['price']); ?>
+												</span>
+											</div>
+										</span>
+									<?php } ?>
 									<span class="destination-info">
 										<h4>
 											<?php 
@@ -108,7 +113,10 @@
 								</div> <!-- .offer-top -->
 								
 								<div class="offer-bottom">
-									<div class="image">
+									<?php 
+										$imageClass = ( empty($val3['landonly']) ) ? "" : " push-image-up";
+									?>
+									<div class="image<?php echo $imageClass; ?>">
 										<div class="image-container">
 											<a href="http://www.travimp.com/hotel.php?msg=<?php echo strtolower($val3['code']);?>">
 												<div class="overlay">
@@ -126,32 +134,36 @@
 										<?php if ( !empty($val3['hoteldetail']) ) { ?>
 											<p><?php echo replacer($val3['hoteldetail']); ?></p>
 										<?php } ?>
-											
-										<?php if ( $val3['bookingwindow'] != '' ) { ?>
-											<p><?php echo "Booking Window: " . replacer($val3['bookingwindow']); ?></p>
-										<?php } ?>
 										
-										<?php if ( !empty($val3['departuredates']) ) { ?>
-											<p>Advertised rate is valid in "<?php echo strtoupper($val3['classofservice']); ?>" class<br>for departure on 
-												<?php 
-													$dept_dates = explode ( ",", $val3['departuredates'] );
-													$j = 1;
-													foreach ( $dept_dates as $date ) {
-														echo replacer( trim($date) );
-														//echo date( 'n/j/y', strtotime(trim($date)) );
-														if ( count($dept_dates) == 2 && $j < count($dept_dates)) {
-															echo " and ";
-														} else if ( count($dept_dates) > 1 ) {
-															if ( $j == (count($dept_dates)-1) ) { 
-																echo ", and ";
-															} else if ( $j < count($dept_dates) ) {
-																echo ", ";
+										<?php if ( empty($val3['landonly']) ) { ?>
+										
+											<?php if ( $val3['bookingwindow'] != '' ) { ?>
+												<p><?php echo "Booking Window: " . replacer($val3['bookingwindow']); ?></p>
+											<?php } ?>
+											
+											<?php if ( !empty($val3['departuredates']) ) { ?>
+												<p>Advertised rate is valid in "<?php echo strtoupper($val3['classofservice']); ?>" class<br>for departure on 
+													<?php 
+														$dept_dates = explode ( ",", $val3['departuredates'] );
+														$j = 1;
+														foreach ( $dept_dates as $date ) {
+															echo replacer( trim($date) );
+															//echo date( 'n/j/y', strtotime(trim($date)) );
+															if ( count($dept_dates) == 2 && $j < count($dept_dates)) {
+																echo " and ";
+															} else if ( count($dept_dates) > 1 ) {
+																if ( $j == (count($dept_dates)-1) ) { 
+																	echo ", and ";
+																} else if ( $j < count($dept_dates) ) {
+																	echo ", ";
+																}
 															}
-														}
-														$j++;
-													} unset ($j);
-												?>		
-											</p>
+															$j++;
+														} unset ($j);
+													?>		
+												</p>
+											<?php } ?>
+											
 										<?php } ?>
 									</span>
 								</div>	<!-- .offer-bottom -->
@@ -177,6 +189,7 @@
 							<div style="clear:both;"></div>
 						</div><!-- .offer -->
 						<?php 
+							}
 						} 
 						?>
 					</div>
@@ -188,14 +201,57 @@
 			}
 			?>
 		</div> <!-- .regions_container -->
-		
-		<!-- Back to top function -->
-		<div id="back">
-			<p id="back-top">
-				<a href="#top"><span></span></a>
-			</p>
-		</div>
-		
+
 	</div> <!-- #regions -->	
+
+		<?php 
+			$i = 1; 
+			foreach ( $elements as $key => $val ) {
+		?>
+			<?php 
+				foreach ( $val as $key2 => $val2 ) {
+					if ( check_multi_dimensional($val2, 'islinelisting') ) {
+			?>
+					<div id="region<?php echo $i; ?>-line-listings" class="line-listings">
+						<h4>More Great Deals Are Available From the Following:</h4>
+						<?php
+							foreach ( $val2 as $key3 => $val3 ) {
+								if ( !empty($val3['islinelisting']) ) {
+						?>
+								<div class="listing" >
+									<span class="hotel-name">
+											<?php echo replacer($val3['hotelname']); ?>
+									</span>
+									<span class="location">
+										<?php 
+											if ( !empty($val3['subdestination']) ) { 
+												echo replacer($val3['subdestination']) . ", ";
+											}
+											echo replacer($val3['destination']); 
+											echo " - " . replacer($val3['region']); 
+										?>
+									</span>
+								</div>
+						<?php 
+								}
+							}
+						?>
+					</div>
+			<?php
+					}
+				$i++;
+				}
+			?>		
+		<?php 
+			}
+		?>
+	
+	<!-- Back to top function -->
+	<div id="back">
+		<p id="back-top">
+			<a href="#top"><span></span></a>
+		</p>
+	</div>
+		
 
 <?php include 'elements/footer.php'; ?>

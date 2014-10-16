@@ -4,6 +4,8 @@
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -37,6 +39,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -70,6 +74,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -103,6 +109,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -136,6 +144,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -169,6 +179,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -202,6 +214,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -235,6 +249,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -268,6 +284,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -301,6 +319,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>B</classofservice>
@@ -332,6 +352,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -367,6 +389,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -402,6 +426,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -437,6 +463,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -472,6 +500,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -505,6 +535,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -538,6 +570,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -571,6 +605,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -604,6 +640,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -637,6 +675,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -670,6 +710,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -703,6 +745,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -736,6 +780,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -769,6 +815,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -800,6 +848,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Denver</from>
 		<departurecode>DEN</departurecode>
 		<classofservice>A</classofservice>
@@ -831,6 +881,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -862,6 +914,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -893,6 +947,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -924,6 +980,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>B</classofservice>
@@ -955,6 +1013,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -988,6 +1048,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -1019,6 +1081,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -1050,6 +1114,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -1081,6 +1147,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>A</classofservice>
@@ -1112,6 +1180,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Dallas</from>
 		<departurecode>DFW</departurecode>
 		<classofservice>A</classofservice>
@@ -1143,6 +1213,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -1174,6 +1246,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>C</classofservice>
@@ -1205,6 +1279,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -1236,6 +1312,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -1267,6 +1345,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -1298,6 +1378,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cincinnati</from>
 		<departurecode>CVG</departurecode>
 		<classofservice>A</classofservice>
@@ -1329,6 +1411,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -1360,6 +1444,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -1391,6 +1477,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -1422,6 +1510,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Kansas City</from>
 		<departurecode>MCI</departurecode>
 		<classofservice>A</classofservice>
@@ -1453,6 +1543,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>C</classofservice>
@@ -1484,6 +1576,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Denver</from>
 		<departurecode>DEN</departurecode>
 		<classofservice>A</classofservice>
@@ -1515,6 +1609,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Dallas</from>
 		<departurecode>DFW</departurecode>
 		<classofservice>A</classofservice>
@@ -1546,6 +1642,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -1579,6 +1677,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -1612,6 +1712,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -1643,6 +1745,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -1674,6 +1778,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -1707,6 +1813,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -1740,6 +1848,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -1773,6 +1883,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -1806,6 +1918,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -1839,6 +1953,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -1872,6 +1988,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -1905,6 +2023,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -1938,6 +2058,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -1971,6 +2093,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -2004,6 +2128,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -2035,6 +2161,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -2066,6 +2194,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -2097,6 +2227,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -2128,6 +2260,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -2159,6 +2293,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -2190,6 +2326,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -2221,6 +2359,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cincinnati</from>
 		<departurecode>CVG</departurecode>
 		<classofservice>A</classofservice>
@@ -2252,6 +2392,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Denver</from>
 		<departurecode>DEN</departurecode>
 		<classofservice>A</classofservice>
@@ -2283,6 +2425,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -2314,6 +2458,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -2345,6 +2491,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>A</classofservice>
@@ -2376,6 +2524,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Kansas City</from>
 		<departurecode>MCI</departurecode>
 		<classofservice>A</classofservice>
@@ -2407,6 +2557,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -2438,6 +2590,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Dallas</from>
 		<departurecode>DFW</departurecode>
 		<classofservice>A</classofservice>
@@ -2469,6 +2623,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -2500,6 +2656,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -2531,6 +2689,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -2562,6 +2722,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Denver</from>
 		<departurecode>DEN</departurecode>
 		<classofservice>A</classofservice>
@@ -2593,6 +2755,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -2626,6 +2790,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -2659,6 +2825,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -2692,6 +2860,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -2725,6 +2895,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -2758,6 +2930,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>B</classofservice>
@@ -2791,6 +2965,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -2824,6 +3000,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -2857,6 +3035,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -2890,6 +3070,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -2923,6 +3105,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -2956,6 +3140,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -2989,6 +3175,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -3022,6 +3210,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -3055,6 +3245,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -3088,6 +3280,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -3121,6 +3315,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -3154,6 +3350,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -3185,6 +3383,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -3216,6 +3416,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -3249,6 +3451,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -3282,6 +3486,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -3315,6 +3521,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -3348,6 +3556,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -3381,6 +3591,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -3414,6 +3626,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>B</classofservice>
@@ -3447,6 +3661,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -3480,6 +3696,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -3513,6 +3731,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -3544,6 +3764,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -3575,6 +3797,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -3606,6 +3830,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -3637,6 +3863,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -3668,6 +3896,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Cincinnati</from>
 		<departurecode>CVG</departurecode>
 		<classofservice>A</classofservice>
@@ -3699,6 +3929,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -3730,6 +3962,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -3761,6 +3995,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>A</classofservice>
@@ -3792,6 +4028,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Kansas City</from>
 		<departurecode>MCI</departurecode>
 		<classofservice>A</classofservice>
@@ -3823,6 +4061,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -3854,6 +4094,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Dallas</from>
 		<departurecode>DFW</departurecode>
 		<classofservice>A</classofservice>
@@ -3885,6 +4127,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -3918,6 +4162,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -3949,6 +4195,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -3980,6 +4228,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Boston</from>
 		<departurecode>BOS</departurecode>
 		<classofservice>A</classofservice>
@@ -4011,6 +4261,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx. $200 in r
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -4044,6 +4296,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -4077,6 +4331,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -4110,6 +4366,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -4143,6 +4401,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -4176,6 +4436,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -4209,6 +4471,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -4242,6 +4506,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -4275,6 +4541,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -4308,6 +4576,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly>x</landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -4339,6 +4609,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -4370,6 +4642,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -4401,6 +4675,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -4432,6 +4708,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -4463,6 +4741,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Boston</from>
 		<departurecode>BOS</departurecode>
 		<classofservice>A</classofservice>
@@ -4494,6 +4774,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -4525,6 +4807,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -4558,6 +4842,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>A</classofservice>
@@ -4591,6 +4877,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>A</classofservice>
@@ -4624,6 +4912,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -4657,6 +4947,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -4690,6 +4982,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -4723,6 +5017,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -4756,6 +5052,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -4789,6 +5087,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -4822,6 +5122,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Denver</from>
 		<departurecode>DEN</departurecode>
 		<classofservice>A</classofservice>
@@ -4853,6 +5155,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -4884,6 +5188,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -4915,6 +5221,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Denver</from>
 		<departurecode>DEN</departurecode>
 		<classofservice>A</classofservice>
@@ -4946,6 +5254,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>A</classofservice>
@@ -4977,6 +5287,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Dallas</from>
 		<departurecode>DFW</departurecode>
 		<classofservice>A</classofservice>
@@ -5008,6 +5320,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>B</classofservice>
@@ -5039,6 +5353,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>A</classofservice>
@@ -5070,6 +5386,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -5101,6 +5419,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>C</classofservice>
@@ -5132,6 +5452,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cleveland</from>
 		<departurecode>CLE</departurecode>
 		<classofservice>C</classofservice>
@@ -5163,6 +5485,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Philadelphia</from>
 		<departurecode>PHL</departurecode>
 		<classofservice>A</classofservice>
@@ -5194,6 +5518,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Pittsburgh</from>
 		<departurecode>PIT</departurecode>
 		<classofservice>A</classofservice>
@@ -5225,6 +5551,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Chicago</from>
 		<departurecode>ORD</departurecode>
 		<classofservice>A</classofservice>
@@ -5256,6 +5584,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Cincinnati</from>
 		<departurecode>CVG</departurecode>
 		<classofservice>A</classofservice>
@@ -5287,6 +5617,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Minneapolis</from>
 		<departurecode>MSP</departurecode>
 		<classofservice>A</classofservice>
@@ -5318,6 +5650,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>St. Louis</from>
 		<departurecode>STL</departurecode>
 		<classofservice>A</classofservice>
@@ -5349,6 +5683,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Detroit</from>
 		<departurecode>DTW</departurecode>
 		<classofservice>B</classofservice>
@@ -5380,6 +5716,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Kansas City</from>
 		<departurecode>MCI</departurecode>
 		<classofservice>A</classofservice>
@@ -5411,6 +5749,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Baltimore</from>
 		<departurecode>BWI</departurecode>
 		<classofservice>C</classofservice>
@@ -5442,6 +5782,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Denver</from>
 		<departurecode>DEN</departurecode>
 		<classofservice>A</classofservice>
@@ -5473,6 +5815,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Dallas</from>
 		<departurecode>DFW</departurecode>
 		<classofservice>A</classofservice>
@@ -5504,6 +5848,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>Denver</from>
 		<departurecode>DEN</departurecode>
 		<classofservice>A</classofservice>
@@ -5535,6 +5881,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>B</classofservice>
@@ -5566,6 +5914,8 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<ti>x</ti>
 		<myaev>x</myaev>
 		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
 		<from>New York</from>
 		<departurecode>JFK</departurecode>
 		<classofservice>B</classofservice>
@@ -5592,5 +5942,1045 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 **Nightly entertainment and much more!</packageinclusionscontent>
 		<terms>$200 in resort coupons are broken down as follows: Two coupons of $40 and one coupon of $20 in Spa treatments, $60 for one romantic dinner per stay with one coupon of $40 and one coupon of $20, $40 for bottles of wine at any restaurant with four coupons of $10. Resort coupons are not redeemable for cash and are non-transferable. Coupons must be presented at time of service request.</terms>
 		<dateadded>41922</dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Azul Hotels</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Bahia Principe Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Barcelo Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Riviera Maya</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Blue Diamond Riviera Maya</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Blue Bay Grand Esmerelda</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>El Dorado Spa Resorts &amp;amp; Hotel s</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Generations Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Iberostar Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Palladium Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Paradisus Cancun</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Royal Suites Yucatan</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Sandos Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Temptation Resort Spa Cancun</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Viva Wyndham Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Cancun</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Westin Hotels</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Central America</region>
+		<destination>Costa Rica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Hilton Papagayo</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Central America</region>
+		<destination>Costa Rica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Double Tree by Hilton Hotels</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Jamaica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Azul Hotels</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Jamaica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Half Moon- A RockResort</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Jamaica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Iberostar Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Jamaica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Jewel Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Jamaica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Palladium Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Jamaica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>RIU Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Jamaica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Round Hill Hotel &amp;amp; Villas</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Jamaica</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Sunset Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Bahia Principe Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Barcelo Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Breathless Resorts &amp;amp; Spas</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Dreams Resorts &amp;amp; Spas</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Iberostar Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Melia Hotels</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Now Resorts &amp;amp; Spas</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Occidental Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Caribbean</region>
+		<destination>Dominican Republic</destination>
+		<subdestination>Punta Cana</subdestination>
+		<code></code>
+		<hotelname>Palladium Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Puerto Vallarta</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Palladium Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Puerto Vallarta</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Iberostar Hotels &amp;amp; Resorts</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Los Cabos</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Dreams Resorts &amp;amp; Spas</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Los Cabos</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Zoetry Resorts &amp;amp; Spas</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti>x</ti>
+		<myaev>x</myaev>
+		<aev></aev>
+		<islinelisting>x</islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region>Mexico</region>
+		<destination>Los Cabos</destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname>Secrets Resorts &amp;amp; Spas</hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
+	</element>
+	<element>
+		<ti></ti>
+		<myaev></myaev>
+		<aev></aev>
+		<islinelisting></islinelisting>
+		<landonly></landonly>
+		<from></from>
+		<departurecode></departurecode>
+		<classofservice></classofservice>
+		<airline></airline>
+		<numberofnights></numberofnights>
+		<departuredates></departuredates>
+		<region></region>
+		<destination></destination>
+		<subdestination></subdestination>
+		<code></code>
+		<hotelname></hotelname>
+		<hoteldetail></hoteldetail>
+		<price></price>
+		<bookingwindow></bookingwindow>
+		<travelwindow></travelwindow>
+		<packageinclusionslabel></packageinclusionslabel>
+		<packageinclusionscontent></packageinclusionscontent>
+		<terms></terms>
+		<dateadded></dateadded>
 	</element>
 </root>
