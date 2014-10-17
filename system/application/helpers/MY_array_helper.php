@@ -8,7 +8,7 @@
  *	@return bool
  */
  
-if ( ! function_exists('random_element'))
+if ( ! function_exists('check_multi_dimensional'))
 {
 	function check_multi_dimensional($array, $key) {
 		foreach ($array as $item)

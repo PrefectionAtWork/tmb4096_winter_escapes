@@ -13,9 +13,6 @@
 <script type="text/javascript" src="<?php echo base_url(), 'assets/'.$assets_prefix.'js/responsiveslides.min.js'; ?>"></script>
 <script type="text/javascript" src="<?php echo base_url(), 'assets/'.$assets_prefix.'js/hoverIntent.js'; ?>"></script>
 <script type="text/javascript" src="<?php echo base_url(), 'assets/'.$assets_prefix.'js/superfish.js'; ?>"></script>
-
-<!-- Live Reload -->
-<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 	
 </body>
 </html>
