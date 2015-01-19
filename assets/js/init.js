@@ -74,6 +74,7 @@
 		
 	});
 
+	/*
 	$(function () {
 		$(".rslides").responsiveSlides();
 	});
@@ -94,3 +95,4 @@
             before: function () { },   // Function: Before callback
             after: function () { }     // Function: After callback
 	});
+	*/

@@ -39,6 +39,14 @@
 <![endif]-->
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+	// <IE9 console log bug fix
+	// http://stackoverflow.com/questions/10961430/ie9-not-running-javascript-onload
+	if(!window.console){
+		console={};
+		console.log = function(){};
+	}
+</script>
 <script type="text/javascript" src="<?php echo base_url(), 'assets/'.$assets_prefix.'js/jquery.tooltipster.min.js'; ?>"></script>	
 
 </head>

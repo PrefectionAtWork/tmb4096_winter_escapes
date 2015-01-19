@@ -1399,7 +1399,7 @@
 		<non-stopflightforprintheadline></non-stopflightforprintheadline>
 		<burst></burst>
 		<region>Mexico</region>
-		<destination>Manzanilla</destination>
+		<destination>Manzanillo</destination>
 		<subdestination></subdestination>
 		<terms>Not combinable with any other promotion or discount.</terms>
 		<code>ZLOKPM</code>
@@ -3742,9 +3742,9 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<non-stopflightforprintheadline>yes</non-stopflightforprintheadline>
 		<burst>2 FREE checked bags</burst>
 		<region>Mexico</region>
-		<destination>Riviera Maya</destination>
+		<destination>Cancun</destination>
 		<subdestination></subdestination>
-		<terms>Baltimore to Riviera Maya flights on Aeromexico are registered with the DOT as a Public Charter (PC#14-114).</terms>
+		<terms>Baltimore to Cancun flights on Aeromexico are registered with the DOT as a Public Charter (PC#14-114).</terms>
 		<code>cunblc</code>
 		<hotelname>Le Blanc Spa Resort - Adults Only</hotelname>
 		<hoteldetail>Reduced rates in a Royale Deluxe Resort View room with a 5-night minimum stay. Ask about the $1500 Resort Credit. Terms, conditions and restrictions apply. Call for details.</hoteldetail>
@@ -3822,9 +3822,9 @@ http://www.dgii.gov.do/tarjetaTuristica/EN/about/Paginas/default.aspx.</terms>
 		<non-stopflightforprintheadline>yes</non-stopflightforprintheadline>
 		<burst>2 FREE checked bags</burst>
 		<region>Mexico</region>
-		<destination>Riviera Maya</destination>
+		<destination>Cancun</destination>
 		<subdestination></subdestination>
-		<terms>Baltimore to Riviera Maya flights on Aeromexico are registered with the DOT as a Public Charter (PC#14-114).</terms>
+		<terms>Baltimore to Cancun flights on Aeromexico are registered with the DOT as a Public Charter (PC#14-114).</terms>
 		<code>cunoag</code>
 		<hotelname>Grand Oasis Cancun</hotelname>
 		<hoteldetail>Reduced rates in a Standard room.</hoteldetail>
